@@ -1,4 +1,4 @@
-👋 Hi there ... My full name is Asim Khan, so you can call me "Aasim". I'm Software Engineer who specialized in *mobile technologies* side, but also have an ability to code in *backend* side. I'm a passionate and technically sound software engineer, focused both on native iOS development and cross- platform technologies.
+👋 Hi there ... My full name is Asim Khan, so you can call me "Aasim". I'm Software Engineer who specialized in *mobile technologies* side, but also have an ability to code in *backend* side. I'm a passionate and technically sound software engineer, focused on Flutter technologies. 
 
 My key responsibilities are writing clean and concise code with approach to accomplish passed test cases by stepping through failed test cases. I am also responsible for app architecture with abilities to decide design patterns, frameworks and technologies.
 
