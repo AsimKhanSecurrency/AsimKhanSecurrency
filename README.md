@@ -3,6 +3,7 @@
 I'm **Asim Khan**, a passionate Blockchain Engineer dedicated to pioneering solutions that harness the power of blockchain technology to drive innovation and transform industries. Previously, I honed my skills as a Mobile Engineer, focusing on crafting **Mirai**, a groundbreaking server-driven UI library for Flutter and Dart.
 
 !Asim's GitHub stats
+!Asim's GitHub commit graph
 
 ## 🌟 Ambitions & Career Growth
 Driven by a relentless pursuit of excellence, I'm constantly seeking new challenges and opportunities to expand my expertise. From revolutionizing mobile app development to spearheading blockchain initiatives, I'm passionate about pushing the boundaries of technology and driving impactful change.
