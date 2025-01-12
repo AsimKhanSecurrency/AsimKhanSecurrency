@@ -31,11 +31,11 @@ I'm a passionate Blockchain Engineer at DTCC Digital, dedicated to pioneering so
 - **Subgraphs**: Building efficient and scalable subgraphs for blockchain data indexing.
 
 ## Education
-- **Bachelor's Degree in Computer Science**: University of XYZ
+- **Bachelor's Degree in Computer Science**: University of Engineering and Technology UET
 
 ## Certifications
 - **Certified Blockchain Developer**
-- **Certified Smart Contract Auditor**
+- **Certified Mobile App Developer**
 
 ## Ongoing Learning
 - Advanced Solidity
@@ -59,4 +59,4 @@ I'm a passionate Blockchain Engineer at DTCC Digital, dedicated to pioneering so
 
 ---
 
-© 2021 — Asim Khan
+© 2025 — Asim Khan
