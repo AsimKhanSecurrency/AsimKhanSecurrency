@@ -47,13 +47,13 @@ I'm a passionate Blockchain Engineer at DTCC Digital, dedicated to pioneering so
 ## Connect with Me
 - 📧 Email: asim.khan@securrency.com
 - 📧 Email: akhan5@dtcc.com
-- 💼 LinkedIn: linkedin.com/in/i-asimkhan
-- 💻 GitHub: github.com/i-asimkhan
+- 💼 LinkedIn: https://linkedin.com/in/i-asimkhan
+- 💻 GitHub: https://github.com/i-asimkhan
 
 ## GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asimkhansecurrency&show_icons=true&locale=en&layout=compact&count_private=true" alt="asimkhansecurrency" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-asimkhan&show_icons=true&locale=en&layout=compact&count_private=true" alt="i-asimkhan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asimkhansecurrency&show_icons=true&locale=en&count_private=true" alt="asimkhansecurrency" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-asimkhan&show_icons=true&locale=en&count_private=true" alt="i-asimkhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asimkhansecurrency&count_private=true" alt="asimkhansecurrency" /></p>
 
